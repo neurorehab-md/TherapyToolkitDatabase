@@ -1,1 +1,1 @@
-java -jar "Select database to view.jar"
+java -jar "database_binary.jar"
