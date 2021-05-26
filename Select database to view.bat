@@ -1,1 +1,1 @@
-java -jar "database_binary.jar"
+java -jar "_database_binary.jar"
