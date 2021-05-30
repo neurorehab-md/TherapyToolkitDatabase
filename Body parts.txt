@@ -7,6 +7,6 @@ Name: Body part 1a
 Description: 
  
 ID: 411154dd-425b-490d-9875-167566092e27
-Name: Body part 2
+Name: Body part 1b
 Description: 
  
